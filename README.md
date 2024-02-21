@@ -9,11 +9,11 @@
 
  ##
 
-<a href="https://github.com/taylanpng/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taylanpng&show_icons=true&theme=synthwave" />
+<a href="https://github.com/Nexcauzin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nexcauzin&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/taylanpng/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylanpng&layout=compact&theme=synthwave&langs_count=8&card_width=320" />
+<a href="https://github.com/Nexcauzin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nexcauzin&layout=compact&theme=synthwave&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
