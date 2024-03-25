@@ -4,7 +4,7 @@
 - Electrical Engineering Student at UNIVASF
 - I have extensive knowledge with Arduino and Raspberry Pi
 - Developed proficiency in Python, Matlab and C++ through projects with the F-Carranca team
-- Currently exploring functionalities in JavaScript through self-study
+- Currently exploring functionalities in JavaScript for fun.
 
 
  ##
