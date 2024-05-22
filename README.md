@@ -4,7 +4,6 @@
 - Electrical Engineering Student at UNIVASF
 - I have extensive knowledge with Arduino and Raspberry Pi
 - Developed proficiency in Python, Matlab and C++ through projects with the F-Carranca team
-- Currently exploring functionalities in JavaScript for fun.
 
 
  ##
@@ -20,7 +19,6 @@
   <img align="center" alt="Taylas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
   <img align="center" alt="Taylas-MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
   <img align="center" alt="Taylas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />     
-  <img align="center" alt="Taylas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
 </div>
 
 
