@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hey there, I'm Taylan Mayckon! Here's a quick overview of me.
 
 - Currently developing the F-Carranca Aerodesign team's Embedded Telemetry System
