@@ -16,7 +16,7 @@
 
 ## Technical Skills 🧠
 ### Programming Languages
-<div style="display: inline_block"><br>
+<div style="display: inline_block", align="center"><br>
   <img align="center" alt="Taylas-Python" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>   
   <img align="center" alt="Taylas-R" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/> 
   <img align="center" alt="Taylas-C" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -26,14 +26,14 @@
 
 ##
 ### Hardware ⚙️   
-<div style="display: inline_block"><br>
+<div style="display: inline_block", align="center"><br>
   <img align="center" alt="Taylas-Raspberry" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>    
   <img align="center" alt="Taylas-Arduino" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 </div>
 
 ##
 ### Development Tools 💻
-<div style="display: inline_block"><br>
+<div style="display: inline_block", align="center"><br>
   <img align="center" alt="Taylas-VScode" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>    
   <img align="center" alt="Taylas-PyCharm" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
   <img align="center" alt="Taylas-Matlab" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
@@ -49,9 +49,11 @@
 - English (Intermediate)
 
 ## Here's my Socials 😁
+<div style="display: inline_block", align="center"><br>
+ 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-mayckon-oliveira-araujo-abb746292)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taylan.png)
  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:taylanmayckonoliveiraaraujo@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/nexcauzin) 
  [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Nexcauzin)
-
+</div>
