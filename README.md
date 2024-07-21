@@ -3,7 +3,7 @@
 - Currently developing the F-Carranca Aerodesign team's Embedded Telemetry System
 - Founding member of the new robotics team at UNIVASF, Caatronics Botz
 - Electrical Engineering Student at UNIVASF
-- I have extensive knowledge with Arduino and Raspberry Pi
+- I have extensive knowledge with Microcontrolers and Raspberry Pi
 - Developed proficiency in Python, Matlab and C++ through projects with the F-Carranca team
 
 
