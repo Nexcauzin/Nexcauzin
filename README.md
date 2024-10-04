@@ -1,10 +1,11 @@
 ## Hey there, I'm Taylan Mayckon! Here's a quick overview of me.
 
 - Currently developing the F-Carranca Aerodesign team's Embedded Telemetry System
-- Founding member of the new robotics team at UNIVASF, Caatronics Botz
+- Founding member of the new robotics team at UNIVASF, Caatronics 
 - Electrical Engineering Student at UNIVASF
 - I have extensive knowledge with Microcontrolers and Raspberry Pi
 - Developed proficiency in Python, Matlab and C++ through projects with the F-Carranca team
+- I have great knowledge with SwiftUI development
 
 
  ##
@@ -24,6 +25,8 @@
   <img align="center" alt="Taylas-C" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Taylas-C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>     
   <img align="center" alt="Taylas-JS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
+  <img align="center" alt="Taylas-JS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+          
 </div>
 
 ##
@@ -41,6 +44,8 @@
   <img align="center" alt="Taylas-Matlab" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
   <img align="center" alt="Taylas-Jupyter" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
   <img align="center" alt="Taylas-Arch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
+  <img align="center" alt="Taylas-Node" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+          
 </div>
 
 ### Recent Projects 
