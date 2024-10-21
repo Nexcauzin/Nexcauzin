@@ -50,6 +50,7 @@
 
 ### Recent Projects 
 - **[Webhook for Chatbot](https://github.com/Nexcauzin/Webhook-Dialogflow)**: A Flask application for a Chatbot Webhook linked to Dialogflow. It handles the registration of users interested in promotions and periodically sends active promotions.
+- **[SmartPark](https://github.com/Nexcauzin/SmartPark)**: A SwiftUI application that helps users easily find and reserve available parking spots, similar to AirBNB but for cars.
 
 ## Languages
 - Portuguese (Native)
